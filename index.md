@@ -67,6 +67,13 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Hubot MySQL ChatOps](https://github.com/samlambert/hubot-mysql-chatops)
 
+## Online Collaboration
+
+*Collaborating and sharing SQL*
+
+- [DB Fiddle](https://www.db-fiddle.com/)
+- [SQL Fiddle](http://sqlfiddle.com/)
+
 ## Configuration
 
 *MySQL sample configuration and advisors*
